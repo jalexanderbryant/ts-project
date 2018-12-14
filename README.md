@@ -1,3 +1,4 @@
 # ts-project
-# Requirements:
-Gunicorn, Falcon
+## Requirements:
+* Gunicorn
+* Falcon
